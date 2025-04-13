@@ -58,7 +58,7 @@ https://economia.awesomeapi.com.br/json/last/:moedas
 
 ## Tecnologias utilizadas
 
-- Java 11 (HttpClient para requisições HTTP)
+- Java 21
 - Gson (para processamento de JSON)
 - Scanner (para entrada de dados do usuário)
 
